@@ -43,7 +43,7 @@
 
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
-| 1 | [🏠 Real Estate Data Analysis](https://github.com/AshwiniJindam/Real_Estate_DataAnalysis) | Python, Pandas | Exploratory analysis of real estate trends and pricing |
+| 1 | [🏠 Real Estate Data Analysis](https://github.com/AshwiniJindam/Real_Estate_DataAnalysis) |SQL, Power BI | Exploratory analysis of real estate trends and pricing |
 | 2 | [🏦 Bank Loan Excel Dashboard](https://github.com/AshwiniJindam/Bank_Loan_Excel_Analysis_dashboard) | Excel | Interactive dashboard for bank loan performance metrics |
 | 3 | [🚚 Supply Chain Analysis](https://github.com/AshwiniJindam/Supply_chain_analysis_Power-BI) | Power BI | End-to-end supply chain performance visualization |
 | 4 | [🔍 SQL EDA Project](https://github.com/AshwiniJindam/SQL_EDA_PROJECT) | SQL | Exploratory Data Analysis using SQL queries |
